@@ -1,0 +1,15 @@
+Meeting Date: 10 May 2025
+
+Attendees:
+John Smith (Acme)
+Sarah Lee (Our Team)
+
+Discussion:
+- Acme interested in predictive maintenance.
+- Requested pricing proposal.
+- Asked for deployment timeline.
+
+Action Items:
+1. Send pricing proposal.
+2. Share architecture diagram.
+3. Schedule technical workshop.
