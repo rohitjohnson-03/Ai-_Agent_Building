@@ -1,0 +1,11 @@
+Acme Corp requested a technical workshop in June.
+
+Decision Makers:
+- John Smith (CTO)
+- Emily Brown (Operations Head)
+
+Budget review expected next quarter.
+
+Previous concerns:
+- Downtime reduction
+- Predictive maintenance ROI
